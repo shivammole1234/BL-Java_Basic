@@ -12,7 +12,7 @@ public class EmpWedge {
         if (empCheck == IS_FULL_TIME)
             emp_hr=8;
         else
-            emp_hr=0;
+            emp_hr=4;
 
         payable_wedge=emp_hr*Wedge_Per_hr;
         System.out.println("emp hr is :- "+emp_hr);

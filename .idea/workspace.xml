@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a55a7a2-f769-46f4-8c5f-d7807965d0c9" name="Changes" comment="">
+    <list default="true" id="0a55a7a2-f769-46f4-8c5f-d7807965d0c9" name="Changes" comment="nothing sya just enjoy">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmpWedge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmpWedge.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,14 @@
       <option name="presentableId" value="Default" />
       <updated>1725257915681</updated>
     </task>
+    <task id="LOCAL-00001" summary="nothing sya just enjoy">
+      <created>1725269303215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725269303215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nothing sya just enjoy" />
+    <option name="LAST_COMMIT_MESSAGE" value="nothing sya just enjoy" />
   </component>
 </project>
